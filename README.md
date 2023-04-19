@@ -1,6 +1,6 @@
 # LiveBusIO
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## URL : https://livebusio.vercel.app
 
 <!-- LICENSE -->
 ## License
