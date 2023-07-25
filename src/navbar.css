@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  margin: 0px;
+  padding: 0px 20px;
+  background-color: black;
+  color: white;
+}
+
+.nav a{
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav h1{
+  cursor: pointer;
+}
+
+.nav-link {
+  display: flex;
+  gap: 2em;
+}
+
+.connection-icon {
+  position: relative;
+  height: 1.2rem;
+}
